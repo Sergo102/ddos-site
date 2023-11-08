@@ -11,3 +11,7 @@
 5. Setup a gulpfile.js with browser sync ->
 
 6. Simple guide on how to use it ->
+
+7. Make it ddos only russian sites ->
+
+8. Make a better design for README.md -> 
